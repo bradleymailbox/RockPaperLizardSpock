@@ -1,2 +1,2 @@
-# Rock Paper Lizard Spock
-Classic game with a slight twist
+# Rock Paper Scissors Lizard Spock
+Classic game of Rock, Paper Scissors with a slight twist
