@@ -1,2 +1,2 @@
-Rock Paper Lizard Spock
+# Rock Paper Lizard Spock
 Classic game with a slight twist
